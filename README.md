@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erwinpalma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning German, ownCloud and more.
-- 📫 How to reach me: Just emailing me to erwinpalma@hotmail.com I know, a last century email account.
+- 👀 I’m an IT Professional guy!
+- 🌱 I speak Spanish, German and English
+- 📫 How to reach me: Just email me to erwinpalma@hotmail.com, I know, a last-century email account.
 
 <!---
 erwinpalma/erwinpalma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
